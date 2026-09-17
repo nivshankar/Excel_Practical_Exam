@@ -93,7 +93,7 @@ Neev_ExcelDashboard.xlsx
 
 The main executive dashboard consolidates key financial metrics into prominent KPI callout cards alongside multi-perspective interactive charts.
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ---
 
@@ -113,7 +113,7 @@ The main executive dashboard consolidates key financial metrics into prominent K
 
 > Aggregates category performance, monthly growth trends, regional sales rep performance, sales channels, and payment options.
 
-![Pivot Summary](Pivot_Summary.png)
+![Pivot Summary](Screenshots/Pivot_Summary.png)
 
 **Key Pivot Breakdowns:**
 - **Sales Revenue by Category & Year:** Clothing ($13,13,474.36), Furniture ($12,60,517.69), Electronics ($12,43,499.64), Food ($12,01,773.54).
@@ -134,7 +134,7 @@ The main executive dashboard consolidates key financial metrics into prominent K
 
 > Granular transactional record log containing order details, customer types, financial calculations, and categorical classifications.
 
-![Sales Data Master Log](Data_Master.png)
+![Sales Data Master Log](Screenshots/Data_Master.png)
 
 **Data Schema Summary:**
 - `Product_ID` | `Sale_Date` | `Sales_Rep` | `Region` | `Sales_Amount` | `Quantity_Sold`
@@ -146,7 +146,7 @@ The main executive dashboard consolidates key financial metrics into prominent K
 
 > Dedicated calculation space isolating peak transactional records, discount margins, channel leaders, and seasonality extremes.
 
-![Analysis Sheet Matrix](Analysis.png)
+![Analysis Sheet Matrix](Screenshots/Analysis.png)
 
 | Calculated Metric | Value / Detail | Operational Impact |
 |-------------------|----------------|--------------------|
